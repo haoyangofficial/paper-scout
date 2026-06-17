@@ -1,0 +1,4 @@
+interface:
+  display_name: "Paper Scout"
+  short_description: "Find recent papers, PDFs, code, and ideas"
+  default_prompt: "Use $paper-scout to find recent open-code papers on graph neural networks for molecular property prediction."
